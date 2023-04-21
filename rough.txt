@@ -1,0 +1,17 @@
+:root{
+    --dk-voilet:hsl(268, 75%,9% );
+    --lt-voilet:hsl(268,47%,21%);
+    --lt-voilet2:hsl(281,89%,26%);
+    --vb-voilet:hsl(285,91%,52%);
+    --vb-voilet2:hsl(298, 78%, 36%);
+
+    --vb-yellow:hsl(52,100%,62%);
+    
+    --pl-white:hsl(0,0%,100%);
+
+    --vb-cyan:hsl(176,100%,44%);
+    --vb-cyan:hsl(177,92%,78%);
+
+
+    --dk-text:hsl(198,20%,13%);
+}
